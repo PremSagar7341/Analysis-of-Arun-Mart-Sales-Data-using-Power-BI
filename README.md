@@ -1,2 +1,2 @@
 # Analysis-of-Arun-Mart-Sales-Data-using-Power-BI
-The goal of the project is to design and implement a BI solution using PowerBI that can help the company to manage and analyze their sales data effectively.
+The goal of the project is to design and implement a BI solution using PowerBI that can help the company to manage and analyze their sales data effectively. Using PowerBI, data has been visualized in the form of interactive dashboard. This dashboard is designed to provide useful insights and information to the Arun Mart Sales Team.The project will help the company to effectively manage and analyze their sales data and improve their decision-making process.
